@@ -5,4 +5,4 @@ Authors: Chiara Bonacchi and Marta Krzyzanska.
 
 License: MIT
 
-Description: this file accompanies the book chapter 'Who's influential? Archaeology-themed communications on Twitter'.
+Description: this file accompanies the book chapter 'Who's influential? Archaeology-themed communications on Twitter' by Bonacchi and Kryzanska. In: Resistance & Reception: Critical Archaeologies of Iron Age & Roman Worlds. Edited by Robert Witcher & Emily Hanscam.
